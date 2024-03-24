@@ -1,0 +1,1 @@
+# django-admin-life-savers
