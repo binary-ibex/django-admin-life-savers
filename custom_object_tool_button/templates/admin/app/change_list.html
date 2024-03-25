@@ -1,0 +1,15 @@
+{% extends "admin/change_list.html" %}
+
+{% block object-tools %}
+<ul class="object-tools">
+    {% block object-tools-items %}
+    {% if has_add_permission %}
+    {{ block.super }}
+    <li><a
+        href="{{ custom_form_link }}" style="display: inline-block; padding: 4px 20px; border: none; background-color: #4CAF50; color: white; cursor: pointer;">
+            Make Announcement
+        </a></li>
+    {% endif %}
+    {% endblock %}
+</ul>
+{% endblock %}
