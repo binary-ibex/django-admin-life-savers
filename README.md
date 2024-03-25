@@ -6,6 +6,8 @@ Here, we've crafted a straightforward model titled "Account" to manage user acco
 
 ![custom_list_action_button_django](https://github.com/binary-ibex/django-admin-life-savers/assets/70746835/72dce14d-8d88-495e-8efc-420639d33923)
 
+See: [List action from v1](https://github.com/binary-ibex/django-admin-life-savers/tree/main/list_action_form_v1)
+
 
 
 
