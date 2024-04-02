@@ -1,4 +1,4 @@
-# Django Admin Life Savers
+# Django Admin Life Savers 🛟🛟👽
 
 ### Add the custom action button in the django admin change list row
 
